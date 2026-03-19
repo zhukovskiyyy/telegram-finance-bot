@@ -14,8 +14,7 @@ from aiogram.types import (
     InlineKeyboardMarkup, InlineKeyboardButton
 )
 
-import os
-TOKEN = os.getenv("8739599857:AAEmYy78XR7gt7_P987pdc2C9aJVNPylQcU")
+TOKEN = "8739599857:AAEmYy78XR7gt7_P987pdc2C9aJVNPylQcU"
 
 logging.basicConfig(level=logging.INFO)
 
